@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -------------
+echo "-------------migrating a simple automation"
 echo "This is updated after Docker build"
 if [ $# -gt 0 ]
 then
